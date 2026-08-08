@@ -60,9 +60,13 @@ This will produce:
 
 ## Findings
 
-*(Fill this in after running the analysis — summarize the correlation
-coefficient, regression result, and any notable periods where the two
-series moved together or diverged.)*
+Using 28 years of data (1978–2024), remittances (% of GDP) and CPI inflation
+show a weak positive correlation (r = 0.293). However, a simple OLS regression
+found this relationship is not statistically significant (coefficient = 0.139,
+p = 0.131, R² = 0.086) — remittances explain only about 8.6% of the variation
+in inflation. This suggests remittance inflows are not a strong driver of
+inflation in The Gambia; other factors (global commodity prices, exchange
+rates, fuel costs, and local supply conditions) likely play a larger role.
 
 ## Limitations
 
