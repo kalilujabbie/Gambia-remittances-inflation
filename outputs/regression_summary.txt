@@ -1,0 +1,25 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         FP.CPI.TOTL.ZG   R-squared:                       0.086
+Model:                            OLS   Adj. R-squared:                  0.050
+Method:                 Least Squares   F-statistic:                     2.436
+Date:                Fri, 07 Aug 2026   Prob (F-statistic):              0.131
+Time:                        20:18:31   Log-Likelihood:                -74.897
+No. Observations:                  28   AIC:                             153.8
+Df Residuals:                      26   BIC:                             156.5
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+========================================================================================
+                           coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+const                    6.4367      1.080      5.963      0.000       4.218       8.656
+BX.TRF.PWKR.DT.GD.ZS     0.1391      0.089      1.561      0.131      -0.044       0.322
+==============================================================================
+Omnibus:                        7.036   Durbin-Watson:                   0.772
+Prob(Omnibus):                  0.030   Jarque-Bera (JB):                5.712
+Skew:                           1.092   Prob(JB):                       0.0575
+Kurtosis:                       3.356   Cond. No.                         19.1
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
